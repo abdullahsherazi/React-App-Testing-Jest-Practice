@@ -1,1 +1,1 @@
-# React-App-Testing-Jest-Practice
+# React-App-Testing-Practice
